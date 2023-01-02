@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Search Bar",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "search-2671387-2217225.webp"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
